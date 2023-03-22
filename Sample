@@ -1,0 +1,7 @@
+SAMPLE :- 
+TO PLAY TIC TAC TOE
+
+Have the first player go first. 
+Have the second player go second. 
+Keep alternating moves until one of the players has drawn a row of three symbols or until no one can win.
+Keep practicing.
